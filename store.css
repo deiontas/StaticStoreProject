@@ -1,0 +1,194 @@
+body {
+    background-color: rgba(0, 0, 0, 0.775);
+}
+
+label {
+    text-align: center;
+}
+
+h2 {
+    font-size: 20px;
+}
+li {
+    display: inline;
+    color: white;
+    font-family: Impact;
+    font-size: 20px;
+}
+
+a {
+    color: white;
+    position: relative;
+    left: 80%;
+    
+}
+
+
+
+.searchbar {
+    border-radius: 6px;
+}
+
+
+
+
+.image {
+    position: absolute;
+    z-index: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#StoreName {
+    text-align: center;
+    color: white;
+    position: relative;
+    z-index: 5;
+    font-size: 50px;
+    text-shadow: 3px 3px 3px blue;
+    font-family: impact;
+}
+
+
+
+.content {
+    background-color: rgba(0, 0, 0, 0.695);
+    box-shadow: 2px 2px 2px 2px rgb(2, 2, 8);
+    border-radius: 10px;
+    position: absolute;
+    top: 60%;
+    left: 80%;
+    border: 2px solid black;
+    width: 200px;
+    height: 200px;
+}
+
+    
+
+
+.content-2 {
+    background-color: rgba(0, 0, 0, 0.695);
+    box-shadow: 2px 2px 2px 2px black;
+    border-radius: 10px;
+    position: absolute;
+    top: 60%;
+    left: 10%;
+    border: 2px solid black;
+    height: 200px;
+    width: 200px;
+    
+
+}
+
+.content-3 {
+    background-color: rgba(0, 0, 0, 0.695);
+    box-shadow: 2px 2px 2px 2px black;
+    border-radius: 10px;
+    top: 60%;
+    width: 200px;
+    height: 200px;
+    left: 30%;
+    position: absolute;
+    border: 2px solid black;
+}
+
+.content-4 {
+    background-color: rgba(0, 0, 0, 0.695);
+    box-shadow: 2px 2px 2px 2px black;
+    border-radius: 10px;
+    top: 60%;
+    right: 30%;
+    width: 80px;
+    position: absolute;
+    border: 2px solid black;
+    width: 200px;
+    height: 200px;
+}
+
+p {
+    color: rgb(255, 255, 255);
+    text-shadow: 3px 3px 3px blue;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 15px;
+    font-family: impact;
+}
+
+
+#description {
+    width: 600px;
+    position: relative;
+    height: 300px;
+    margin-top: -600px;
+    font-size: 30px;
+    margin-left: 35%;
+    background-color: rgba(0, 0, 0, 0.695);
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+    font-family: impact;
+    text-shadow: 2px 2px 2px blue;
+}
+
+h7 {
+    font-size: 20px;
+}
+
+
+footer {
+    Font-size: 20px;
+    color: white;
+    position: relative;
+    z-index: 7;
+    margin-top: 975px;
+    text-align: center;
+    height: auto;
+    width: auto;
+    background-color: rgba(2, 3, 14, 0.284);
+    font-family: impact;
+    
+
+
+}
+
+.instagramlogo {
+    border: 7px solid blue;
+    position: relative;
+    width: 80px;
+    height: 75px;
+    z-index: 8;
+    border-radius: 15px;
+    left: 20%;
+    box-shadow: 2px 2px 2px black;
+}
+
+.logo2 {
+    border: 5px solid blue;
+    margin-top: -85px;
+    margin-left: 20px;
+    width: 30px;
+    height: 30px;
+    border-radius: 100px;
+    
+
+    
+}
+
+.logo3 {
+    border: 5px solid blue;
+    margin-top: -55px;
+    margin-left: 58px;
+    width: 5px;
+    height: 5px;
+    border-radius: 100px;
+}
+
+h3 {
+  position: relative;
+  top: 100%;
+  color: black;
+  font-family: Impact;
+  text-shadow: 2px 2px 2px white;
+  
+
+}
